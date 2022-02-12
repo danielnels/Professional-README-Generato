@@ -39,8 +39,8 @@ WHEN I click on the links in the Table of Contents
 
 ```
 ## Sample README File 
+```
 
-(https://github.com/danielnels/Professional-README-Generator/files/8052866/README.md)
 ```
 ## License
 ```
