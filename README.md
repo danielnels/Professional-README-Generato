@@ -36,7 +36,6 @@ WHEN I click on the links in the Table of Contents
 
 ## Walkthrough Video
 
-https://github.com/danielnels/Professional-README-Generator/blob/main/App/index.js%20-%20Professional-README-Generator%20-%20Visual%20Studio%20Code%202022-02-12%2013-47-56.zip
 
 ## Sample README File 
 
