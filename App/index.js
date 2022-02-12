@@ -16,8 +16,8 @@ const questions = [
     },
     {
         type: "input",
-        name: "enterProjectName",
-        message: "What is your project name?"
+        name: "Title",
+        message: "What is your project title?"
     },
     {
         type: "input",
@@ -25,10 +25,11 @@ const questions = [
         message: "What is the description of your project?"
     },
     {
+
         type: "list",
         name: "License",
         message: "What is your license?",
-        choices: ["MIT", "Apache", "GNU"]
+        choices: ["MIT", "Apache", "GNU", "GPL", "WTFPL", "UNLICENSED"]
     },
     {
         type: "input",
@@ -52,7 +53,7 @@ const questions = [
     }
 ]
 
-function promptQuestions(){
+function promptQuestions() {
     inquirer.prompt(questions).then((responses) => {
         console.log(responses);
         writeResponse("README.md", createMarkdown({
@@ -62,6 +63,6 @@ function promptQuestions(){
 }
 promptQuestions();
 
-function writeResponse(fileName, data){
+function writeResponse(fileName, data) {
     return fs.writeFileSync(path.join(process.cwd(), fileName), data);
 }
