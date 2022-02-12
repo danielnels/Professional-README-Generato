@@ -35,12 +35,12 @@ WHEN I click on the links in the Table of Contents
 ```
 
 ## Walkthrough Video
-```md
+```
 
 ```
 ## Sample README File 
-```md
-[README.md](https://github.com/danielnels/Professional-README-Generator/files/8052866/README.md)
 
+(https://github.com/danielnels/Professional-README-Generator/files/8052866/README.md)
 ```
 ## License
+```
