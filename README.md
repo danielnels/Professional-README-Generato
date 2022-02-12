@@ -37,7 +37,6 @@ WHEN I click on the links in the Table of Contents
 ## Walkthrough Video
 
 
-
 ## Sample README File 
 
 https://github.com/danielnels/Professional-README-Generator/tree/main/App/Test%20readme#readme
