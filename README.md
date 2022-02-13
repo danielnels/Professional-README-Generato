@@ -35,7 +35,8 @@ WHEN I click on the links in the Table of Contents
 ```
 
 ## Walkthrough Video
-https://github.com/danielnels/Professional-README-Generator/blob/main/App/assets/README%20generator.mp4
+
+https://user-images.githubusercontent.com/94213022/153736743-69fb96af-2577-4c2f-a536-1ef3ea4256c8.mp4
 
 ## Sample README File 
 
