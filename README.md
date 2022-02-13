@@ -39,7 +39,7 @@ https://github.com/danielnels/Professional-README-Generator/blob/main/App/assets
 
 ## Sample README File 
 
-https://github.com/danielnels/Professional-README-Generator/tree/main/App/Test%20readme#readme
+https://github.com/danielnels/Professional-README-Generator/blob/main/App/Readme%20test/READMEMARKDOWN.md
 
 
 ## License
