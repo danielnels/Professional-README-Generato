@@ -56,7 +56,7 @@ const questions = [
 function promptQuestions() {
     inquirer.prompt(questions).then((responses) => {
         console.log(responses);
-        writeResponse("README.md", createMarkdown({
+        writeResponse("READMEMARKDOWN.md", createMarkdown({
             ...responses
         }));
     })
