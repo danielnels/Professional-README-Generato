@@ -2,7 +2,7 @@
   # Readme Generator
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
   ## Description
-  Generates a readme file using node.js
+  This app dynamicaly generates a readme file
   ## TableOfContents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -13,19 +13,19 @@
   * [License](#license)
   * [Qestions](#qestions)
   ## Installation
-  users choice
+  Use git clone to clone repository to your computer 
   ## Usage
-  generating a readme filenode
+  automatic readme generation 
   ## Contributing
-  automates a readme file to reduce the tasks time
+  This app reduces the time required to create a readme file
   ## Tests
-  npm test
-  ## Qestions
-  Please e-mail me if you have any questions
+  use npm test
   ## Email
   danieln@newground.net.au
   ## Github
   danielnels
   ## License
   MIT 
-  
+  ## Qestions
+  Please e-mail me if you have any questions about this App
+  danieln@newground.net.au 

@@ -19,20 +19,20 @@ function generateMarkdown(data) {
   ## Installation
   ${data.Installation}
   ## Usage
-  ${data.Usage}node
+  ${data.Usage}
   ## Contributing
   ${data.Contributing}
   ## Tests
   ${data.Tests}
-  ## Qestions
-  Please e-mail me if you have any questions
   ## Email
   ${data.enterYourEmail}
   ## Github
   ${data.enterGitHubUsername}
   ## License
   ${data.License} 
-  
+  ## Qestions
+  Please e-mail me if you have any questions about this App
+  danieln@newground.net.au 
 `;
 }
 
